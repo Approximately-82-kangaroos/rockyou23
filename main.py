@@ -22,7 +22,7 @@ if (__name__ == "__main__"):
             passwordList.add(line)
         print(len(passwordList))
     
-    passwordFile = open("rockyou23.txt", "a")
+    passwordFile = open("hurricane.txt", "a")
     for i in passwordList:
         passwordFile.write(f"{i}\n")
 
