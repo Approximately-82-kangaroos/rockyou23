@@ -1,7 +1,9 @@
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Permutations/password-permutations.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Permutations/korelogic-password.txt
-https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/500-worst-passwords.txt
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Permutations/1337speak.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/WiFi-WPA/probable-v2-wpa-top4800.txt
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/500-worst-passwords.txt
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/medical-devices.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/best1050.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/1900-2020.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10k-most-common.txt
@@ -9,6 +11,7 @@ https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Commo
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/common-passwords-win.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Cracked-Hashes/milw0rm-dictionary.txt
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Leaked-Databases/alleged-gmail-passwords.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Leaked-Databases/Ashley-Madison.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Leaked-Databases/Lizard-Squad.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Leaked-Databases/NordVPN.txt
@@ -27,6 +30,8 @@ https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Leake
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Leaked-Databases/phpbb-cleaned-up.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Leaked-Databases/singles.org.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Leaked-Databases/tuscl.txt
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Leaked-Databases/md5decryptor-uk.txt
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Leaked-Databases/000webhost.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Malware/conficker.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Software/cain-and-abel.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Software/john-the-ripper.txt
@@ -37,14 +42,7 @@ https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Most-
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/PHP-Magic-Hashes.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/bt4-password.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/cirt-default-passwords.txt
-https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Permutations/1337speak.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Honeypot-Captures/multiplesources-passwords-fabian-fingerle.de.txt
-https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Leaked-Databases/000webhost.txt
-https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Leaked-Databases/md5decryptor-uk.txt
-https://raw.githubusercontent.com/ignis-sec/Pwdb-Public/master/wordlists/ignis-10M.txt
-https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Leaked-Databases/alleged-gmail-passwords.txt
-https://raw.githubusercontent.com/josuamarcelc/common-password-list/main/rockyou.txt/rockyou_1.txt
-https://raw.githubusercontent.com/josuamarcelc/common-password-list/main/rockyou.txt/rockyou_2.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/BiblePass/BiblePass_part01.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/BiblePass/BiblePass_part02.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/BiblePass/BiblePass_part03.txt
@@ -62,3 +60,7 @@ https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Bible
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/BiblePass/BiblePass_part15.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/BiblePass/BiblePass_part16.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/BiblePass/BiblePass_part17.txt
+https://raw.githubusercontent.com/ignis-sec/Pwdb-Public/master/wordlists/ignis-10M.txt
+https://raw.githubusercontent.com/josuamarcelc/common-password-list/main/rockyou.txt/rockyou_1.txt
+https://raw.githubusercontent.com/josuamarcelc/common-password-list/main/rockyou.txt/rockyou_2.txt
+https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/Real-Passwords/Top304Thousand-probable-v2.txt
