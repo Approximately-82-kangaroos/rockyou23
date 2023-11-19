@@ -1,3 +1,10 @@
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/2020-200_most_used_passwords.txt
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/500-worst-passwords.txt
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/PHP-Magic-Hashes.txt
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/bt4-password.txt
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Most-Popular-Letter-Passes.txt
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/cirt-default-passwords.txt
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Keyboard-Combinations.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Permutations/password-permutations.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Permutations/korelogic-password.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Permutations/1337speak.txt
@@ -35,13 +42,6 @@ https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Leake
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Malware/conficker.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Software/cain-and-abel.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Software/john-the-ripper.txt
-https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/2020-200_most_used_passwords.txt
-https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/500-worst-passwords.txt
-https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Keyboard-Combinations.txt
-https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Most-Popular-Letter-Passes.txt
-https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/PHP-Magic-Hashes.txt
-https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/bt4-password.txt
-https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/cirt-default-passwords.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Honeypot-Captures/multiplesources-passwords-fabian-fingerle.de.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/BiblePass/BiblePass_part01.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/BiblePass/BiblePass_part02.txt
